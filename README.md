@@ -101,3 +101,11 @@ This project demonstrates SQL techniques used by analysts to explore, clean, and
 
 ---
 
+Dashboard Screenshots:-
+
+<img width="1357" height="742" alt="image" src="https://github.com/user-attachments/assets/4b0c97f1-5189-47f2-b987-ecdd0de928de" />
+
+<img width="1358" height="741" alt="image" src="https://github.com/user-attachments/assets/fc05a02e-df25-4057-8ee1-903f960ff8f8" />
+
+
+
